@@ -4,7 +4,7 @@
 
 Apaixonado pelo o que eu faço e pelo o que eu faço para as pessoas.
 
-- :seedling: Aprendendo Javascript
+- :seedling: Aprendendo React
 - :star: Desenvolvendo meu conhecimento diariamente
 - :bulb: Planos: Contribuir sempre e ser ativo na comunidade
 
