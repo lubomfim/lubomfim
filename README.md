@@ -4,7 +4,7 @@
 
 Apaixonado pelo o que eu faço e pelo o que eu faço para as pessoas.
 
-- :seedling: Aprendendo UI
+- :seedling: Aprimorando meu conhecimento em React com styled-components, Redux e NextJS
 - :star: Desenvolvendo meu conhecimento diariamente
 - :bulb: Planos: Contribuir sempre e ser ativo na comunidade
 
