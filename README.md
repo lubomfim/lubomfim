@@ -1,21 +1,11 @@
-# Olá, eu sou o Lucas!
+# Hello, Lucas here!
 
-## Desenvolvedor front-end :rainbow:
+Middle Software Developer with more than two years of experience working in collaboration with Product, Design, and DevOps teams. Focused on creating applications that go beyond code, using techniques to deliver Accessibility and Usability excellence.
 
-Apaixonado pelo o que eu faço e pelo o que eu faço para as pessoas.
+#### Get to know more about my work
 
-- :seedling: Aprimorando meu conhecimento em Flutter!
-- :star: Desenvolvendo meu conhecimento diariamente
-- :bulb: Planos: Contribuir sempre e ser ativo na comunidade
+My medium post, about how i'm becaming a better front-end developer, you can find [here.](https://medium.com/@lubomfim/como-eu-estou-me-tornando-um-front-end-melhor-1324599e5c9e)
 
-<br>
-
-Inclusão sempre :rainbow_flag:
-
-## Venha conhecer um pouco de mim :)
-
-Meu post no Medium sobre [como estou me tornando um front-end melhor.](https://medium.com/@lubomfim/como-eu-estou-me-tornando-um-front-end-melhor-1324599e5c9e)
-
-## Pode me encontrar por aqui
+#### You can find me here
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lubomfim/)](https://www.linkedin.com/in/lubomfim/)
