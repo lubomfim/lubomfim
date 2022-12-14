@@ -1,4 +1,4 @@
-# Hello, Lucas here!
+# Hello, Lucas here! 🌈
 
 Middle Software Developer with more than two years of experience working in collaboration with Product, Design, and DevOps teams. Focused on creating applications that go beyond code, using techniques to deliver Accessibility and Usability excellence.
 
